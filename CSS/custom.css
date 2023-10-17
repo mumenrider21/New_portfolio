@@ -154,6 +154,8 @@ a {
   position: absolute;
   width: 33%;/*横並びで3つ表示*/
   z-index: 1;
+
+  
 }
 
 /*内側のボックスの高さが崩れないように維持*/
@@ -215,4 +217,3 @@ p{
   margin:0 10px 10px 10px;
   word-wrap : break-word;
 }
-

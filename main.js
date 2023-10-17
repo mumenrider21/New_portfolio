@@ -5,7 +5,9 @@ var windowwidth = window.innerWidth || document.documentElement.clientWidth || 0
       var responsiveImage = [//PC用の画像
         { src: 'https://m.media-amazon.com/images/I/71c0+fcDMWL.jpg'},
         { src: 'https://jfv.jp/wp-content/uploads/2022/05/paaaaa_background.gif'},
-        { src: 'https://64.media.tumblr.com/7eaac110cefadb669ccef29608d32d8b/tumblr_put7tnPExa1s36g9so3_r1_400.gifv'}
+        { src: 'https://steamuserimages-a.akamaihd.net/ugc/937194633965961867/EF7D9713618CF86471801A4E8B24527FEDD799B7/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false'},
+        { src: 'https://cdn.piapro.jp/thumb_i/vo/vohbs9lre4q5dc39_20200702111327_0740_0500.gif'}
+
       ];
     } else {
       var responsiveImage = [//タブレットサイズ（768px）以下用の画像
